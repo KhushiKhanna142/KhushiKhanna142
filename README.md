@@ -1,16 +1,141 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KhushiKhanna142/KhushiKhanna142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:178BCA&height=160&section=header&text=Khushi%20Khanna&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Multi-Agent%20Systems%20%7C%20LLMs%20%7C%20Knowledge%20Graphs&descSize=16&descAlignY=58&descColor=d0f5ea" />
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-khanna-00a849313/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KhushiKhanna142)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushikhanna214@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=KhushiKhanna142&style=flat-square&color=1D9E75)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a final-year B.Tech **AIML** student at SIES Graduate School of Technology, Navi Mumbai — obsessed with building AI systems that actually *do* things. Multi-agent orchestration, knowledge graphs, RAG pipelines, agentic workflows — this is where I live.
+
+- 🏆 **2× Hackathon Winner** — Zenith '25 (AWS Cloud Club / MLRIT) & Zero's Arena (500+ participants)
+- 🌌 **2 Provisional Asteroid Discoveries** via IASC
+- 🤖 Building with LangChain, LangGraph, PyTorch, TensorFlow, Neo4j, and Vector Databases
+- 🔭 Leading **Team Explorers** in the International Asteroid Search Campaign
+- 📍 Mumbai, Maharashtra
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Agentic AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F6E56?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-378ADD?style=flat-square)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent%20Systems-7F77DD?style=flat-square)
+
+**Data & Infrastructure**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-D85A30?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🌌 AstroGeo AI](https://github.com/KhushiKhanna142)**
+
+Multi-agent scientific assistant that queries **ISRO & NASA APIs** in real time via natural language. Built with LangChain + LangGraph, integrates Neo4j and a vector database for semantic, relationship-aware search across astronomical and geospatial datasets.
+
+`LangChain` `LangGraph` `Neo4j` `SHAP` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**[💊 AI Pharmacy Management](https://github.com/KhushiKhanna142)**
+
+Demand forecasting and inventory optimization platform achieving **30% reduction in pharmaceutical waste** through ARIMA-based predictive analytics.
+
+`Python` `ARIMA` `Flask` `Predictive Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🔬 Fingerprint Blood Group Detection](https://github.com/KhushiKhanna142)**
+
+CNN model for non-invasive blood group prediction from fingerprint images. Achieved **91% accuracy**, benchmarked against SVM, deployed via Flask.
+
+`PyTorch` `CNN` `Flask` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+**[🧠 NAS with Reinforcement Learning](https://github.com/KhushiKhanna142)**
+
+Neural Architecture Search system using REINFORCE policy gradients. LSTM controller + supernet with weight sharing, CoreML/ONNX export on Apple M4.
+
+`PyTorch` `REINFORCE` `LSTMs` `CoreML` `ONNX`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+
+| 🥇 | Zenith '25 Hackathon Winner — AWS Cloud Club / MLRIT |
+|---|---|
+| 🥇 | Best AIML Project — Zero's Arena (500+ participants) |
+| 🎖️ | Finalist — NMIMS Recode Hackathon |
+| 🌠 | 2 Provisional Asteroid Discoveries — IASC |
+| ☁️ | AWS Academy Cloud Foundations Certified |
+| 🎓 | Stanford ML (Regression & Classification) Certified |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KhushiKhanna142&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441&bg_color=ffffff" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKhanna142&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" />
+
+</div>
+
+---
+
+### 🌱 Currently Working On
+
+- 🔬 **NAS + RL system** — LSTM controller, REINFORCE policy gradients, supernet weight sharing, CoreML export
+- 🤝 Exploring remote AI/ML internship opportunities
+- 🌌 Expanding AstroGeo AI with more data sources
+
+---
+
+### 📬 Let's Connect
+
+I'm always up to talk agentic AI, knowledge graphs, or space stuff. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushikhanna214)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikhanna214@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:178BCA,100:1D9E75&height=100&section=footer" />
+</div>
