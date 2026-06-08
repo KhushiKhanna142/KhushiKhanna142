@@ -56,7 +56,7 @@ I'm a final-year B.Tech **AIML** student at SIES Graduate School of Technology, 
 <tr>
 <td width="50%" valign="top">
 
-**[🌌 AstroGeo AI](https://github.com/KhushiKhanna142)**
+**[🌌 AstroGeo AI](https://github.com/KhushiKhanna142/Astrogeo)**
 
 Multi-agent scientific assistant that queries **ISRO & NASA APIs** in real time via natural language. Built with LangChain + LangGraph, integrates Neo4j and a vector database for semantic, relationship-aware search across astronomical and geospatial datasets.
 
@@ -65,7 +65,7 @@ Multi-agent scientific assistant that queries **ISRO & NASA APIs** in real time 
 </td>
 <td width="50%" valign="top">
 
-**[💊 AI Pharmacy Management](https://github.com/KhushiKhanna142)**
+**[💊 AI Pharmacy Management](https://github.com/KhushiKhanna142/Pharmsync)**
 
 Demand forecasting and inventory optimization platform achieving **30% reduction in pharmaceutical waste** through ARIMA-based predictive analytics.
 
@@ -76,7 +76,7 @@ Demand forecasting and inventory optimization platform achieving **30% reduction
 <tr>
 <td width="50%" valign="top">
 
-**[🔬 Fingerprint Blood Group Detection](https://github.com/KhushiKhanna142)**
+**[🔬 Fingerprint Blood Group Detection](https://github.com/KhushiKhanna142/Blood-Group-Detection-Using-Fingerprint)**
 
 CNN model for non-invasive blood group prediction from fingerprint images. Achieved **91% accuracy**, benchmarked against SVM, deployed via Flask.
 
@@ -85,7 +85,7 @@ CNN model for non-invasive blood group prediction from fingerprint images. Achie
 </td>
 <td width="50%" valign="top">
 
-**[🧠 NAS with Reinforcement Learning](https://github.com/KhushiKhanna142)**
+**[🧠 NAS with Reinforcement Learning]**
 
 Neural Architecture Search system using REINFORCE policy gradients. LSTM controller + supernet with weight sharing, CoreML/ONNX export on Apple M4.
 
@@ -105,7 +105,6 @@ Neural Architecture Search system using REINFORCE policy gradients. LSTM control
 | 🎖️ | Finalist — NMIMS Recode Hackathon |
 | 🌠 | 2 Provisional Asteroid Discoveries — IASC |
 | ☁️ | AWS Academy Cloud Foundations Certified |
-| 🎓 | Stanford ML (Regression & Classification) Certified |
 
 ---
 
@@ -118,14 +117,6 @@ Neural Architecture Search system using REINFORCE policy gradients. LSTM control
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKhanna142&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" />
 
 </div>
-
----
-
-### 🌱 Currently Working On
-
-- 🔬 **NAS + RL system** — LSTM controller, REINFORCE policy gradients, supernet weight sharing, CoreML export
-- 🤝 Exploring remote AI/ML internship opportunities
-- 🌌 Expanding AstroGeo AI with more data sources
 
 ---
 
