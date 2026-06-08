@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-I'm a final-year B.Tech **AIML** student at SIES Graduate School of Technology, Navi Mumbai — obsessed with building AI systems that actually *do* things. Multi-agent orchestration, knowledge graphs, RAG pipelines, agentic workflows — this is where I live.
+I'm a final-year B.Tech **AIML**  obsessed with building AI systems that actually *do* things. Multi-agent orchestration, knowledge graphs, RAG pipelines, agentic workflows, this is where I live.
 
 - 🏆 **2× Hackathon Winner** — Zenith '25 (AWS Cloud Club / MLRIT) & Zero's Arena (500+ participants)
 - 🌌 **2 Provisional Asteroid Discoveries** via IASC
