@@ -109,16 +109,11 @@ Neural Architecture Search system using REINFORCE policy gradients. LSTM control
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KhushiKhanna142&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KhushiKhanna142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKhanna142&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKhanna142&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
-
----
 
 ### 📬 Let's Connect
 
