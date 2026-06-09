@@ -85,7 +85,7 @@ CNN model for non-invasive blood group prediction from fingerprint images. Achie
 </td>
 <td width="50%" valign="top">
 
-**[🧠 NAS with Reinforcement Learning]**
+**[🧠 NAS with Reinforcement Learning](https://github.com/KhushiKhanna142/NeuroSearch)**
 
 Neural Architecture Search system using REINFORCE policy gradients. LSTM controller + supernet with weight sharing, CoreML/ONNX export on Apple M4.
 
