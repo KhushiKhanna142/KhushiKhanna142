@@ -124,7 +124,7 @@ Neural Architecture Search system using REINFORCE policy gradients. LSTM control
 
 I'm always up to talk agentic AI, knowledge graphs, or space stuff. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushikhanna214)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-khanna-00a849313/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikhanna214@gmail.com)
 
 <div align="center">
